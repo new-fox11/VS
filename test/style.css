@@ -1,0 +1,15 @@
+.text-color{
+    color: blue;
+}
+.text-color:hover{
+    color: red;
+}
+.text-color-1{
+    background-color: aqua;
+}
+.text-color-1:hover{
+    color: red;
+}
+.tabl{
+    color: rgb(193, 0, 0);
+}
