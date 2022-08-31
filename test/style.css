@@ -1,0 +1,6 @@
+.text-color{
+    color: blue;
+}
+.text-color:hover{
+    color: red;
+}
