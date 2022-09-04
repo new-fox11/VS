@@ -1,0 +1,88 @@
+body{
+    background-image: url(background.jpg);
+    background-color: rgb#eeeeee;
+    font-size: 18px;
+    line-height: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+header{
+    width: 217px;
+    padding-top: 4px;
+    font-size: 14px;
+    margin-top: -24px;
+    margin-left: -8px;
+    margin-right: -8px;
+    background-color:#dbdbdb ;
+    text-decoration:underline ;
+}
+.img{
+    padding-left: 8px;
+}
+.nav{
+    border-top: 1px solid black;
+    margin-left: -8px;
+    padding-left: 5px;
+    float:left;
+    background-color: #dbdbdb;
+}
+nav li{
+    font-size: 21px;
+
+}
+main{
+    font-size:20px;
+    margin-top: -185px;
+    margin-right: -8px;
+    padding-left: 5px;
+    margin-left: 230px;
+    background-color: aliceblue; 
+}
+.leman{
+    margin-right: 10px;
+    float: right;
+    border: 2px solid #dbdbdb ;
+    background-color: #dbdbdb;
+    box-shadow: 4px 4px 4px #9a9898;
+}
+.leman-text{
+    font-size: 13px;
+    margin-top: -6px;
+}
+.save{
+    font-weight:700
+}
+.senna{
+    box-shadow: 4px 4px 4px #9a9898;
+    margin-top: -78px;
+    margin-right: 10px;
+    background-color: #dbdbdb;
+    border: 2px solid #dbdbdb ;
+    float: right;
+    height: 185px;
+}
+.senna-text{
+    margin-top: -7px;
+    font-size: 13px;
+}
+.avto{
+    padding-top:5px;
+    font-size: xx-large;
+    border-bottom: 1px solid black;
+    padding-bottom: 12px;
+}
+.title{
+    font-size: 22px;
+    font-weight:700;
+}
+.spisok{
+    padding-top: 5px;
+    border-top: 1px solid black ;    
+}
+.topf{
+    width: 217px;
+    font-size: 26px;
+    font-weight: 700;
+}
+ol li{
+    font-size: 16px;
+}
